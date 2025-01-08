@@ -42,7 +42,7 @@ body {
     background-color:  #bfbfbf;
     max-height: fit-content;
     max-width: 300px;
-    height: auto;
+    height: 185px;
     text-align: center;
     border: 2px solid #004766;
     border-radius: 10px;
@@ -108,7 +108,11 @@ p, a {
         margin-bottom: 55px;
     }
 
-
+    .card {
+        height: 150px;
+        width: 250px;
+    }
+    
     .card img {
         width: 100px;
         height: 100px;
